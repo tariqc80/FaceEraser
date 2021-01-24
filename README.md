@@ -31,5 +31,7 @@ A Facebook object deletion tool
 
 - Splinter - https://splinter.readthedocs.io/en/latest/index.html
 - Facebook API - https://github.com/mobolic/facebook-sdk
+- Fire - https://google.github.io/python-fire
 - Argparse - https://docs.python.org/3/library/argparse.html#module-argparse
 - PyInquirer - https://github.com/CITGuru/PyInquirer
+- https://nuitka.net
